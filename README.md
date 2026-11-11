@@ -131,4 +131,4 @@ Depois, abra a pasta no VS Code, selecione o kernel `.venv` e rode os notebooks 
 | :--- | :--- | :--- |
 | **[Nome]** | Perfil da Amostra & Persona | Bloco 1: Contexto, Amostra (EDA) e Pergunta de Negócio |
 | **[Nome]** | Governança & Diário de Bordo | Bloco 2: LGPD, Filtro Anti-GIGO e Diário de Bordo |
-| **[Yasmin] ** | Pipeline & Modelagem Logit | Bloco 3: Pipeline Python, Regressão Logística & Recomendações |
+| **[Yasmin]** | Pipeline & Modelagem Logit | Bloco 3: Pipeline Python, Regressão Logística & Recomendações |
