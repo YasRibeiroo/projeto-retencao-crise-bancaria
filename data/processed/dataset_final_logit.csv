@@ -1,0 +1,20 @@
+id_respondente,flag_aceitou_tcle,instituicao_principal,faixa_renda_perfil,tempo_relacionamento_anos,percepcao_transparencia,canal_comunicacao_pref,flag_resgate_preventivo,flag_risco_churn,tx_reclamacao_geral_bacen,taxa_procedencia_bacen
+R001,True,Itaú,1,3,2,WhatsApp / SMS,1,0,46.87299214092086,15.154749199573105
+R002,True,Nubank,1,3,2,E-mail Oficial,1,0,9.210378868934773,4.761904761904762
+R003,True,Inter,1,1,3,WhatsApp / SMS,0,0,26.15927774661507,15.34154535274356
+R004,True,Nubank,1,3,3,WhatsApp / SMS,1,0,9.210378868934773,4.761904761904762
+R005,True,Nubank,1,3,4,E-mail Oficial,0,0,9.210378868934773,4.761904761904762
+R007,True,Nubank,2,3,3,Notificação no Aplicativo (Push),1,1,9.210378868934773,4.761904761904762
+R008,True,Nubank,1,3,3,Notificação no Aplicativo (Push),1,0,9.210378868934773,4.761904761904762
+R010,True,Itaú,1,3,3,Notificação no Aplicativo (Push),1,0,46.87299214092086,15.154749199573105
+R011,True,Inter,2,5,4,WhatsApp / SMS,1,0,26.15927774661507,15.34154535274356
+R012,True,Nubank,1,2,4,WhatsApp / SMS,0,0,9.210378868934773,4.761904761904762
+R013,True,Nubank,1,1,2,WhatsApp / SMS,1,0,9.210378868934773,4.761904761904762
+R014,True,Itaú,1,3,3,Notificação no Aplicativo (Push),1,0,46.87299214092086,15.154749199573105
+R015,True,Nubank,1,3,3,WhatsApp / SMS,1,0,9.210378868934773,4.761904761904762
+R016,True,Caixa,1,3,5,Notificação no Aplicativo (Push),1,0,23.324260630768272,16.139240506329113
+R017,True,Nubank,1,2,4,E-mail Oficial,1,1,9.210378868934773,4.761904761904762
+R018,True,Nubank,1,2,3,E-mail Oficial,1,1,9.210378868934773,4.761904761904762
+R019,True,Inter,1,3,3,Notificação no Aplicativo (Push),0,0,26.15927774661507,15.34154535274356
+R020,True,Nubank,1,1,1,WhatsApp / SMS,0,1,9.210378868934773,4.761904761904762
+R021,True,Inter,1,5,3,WhatsApp / SMS,1,1,26.15927774661507,15.34154535274356
